@@ -1,8 +1,8 @@
 ## Hi there 👋
-👋 My name is Jackson Rockhill, my pronouns are he/him and I'm 19 years old
-🏫 I currently attend the University of Maryland as an undergraduate for Materials Science Engineering
-🖥️ I'm currently learning how to program in python
-📫 Reach out to me at jrockhil@umd.edu
+* 👋 My name is Jackson Rockhill, my pronouns are he/him and I'm 19 years old
+* 🏫 I currently attend the University of Maryland as an undergraduate for Materials Science Engineering
+* 🖥️ I'm currently learning how to program in python
+* 📫 Reach out to me at jrockhil@umd.edu
 
 <!--
 **JRockhill98/JRockhill98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
