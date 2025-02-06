@@ -1,0 +1,3 @@
+* 📔I chose **_GNU GPLv3_** as my license so that I could distribute my code, as well as modify it and do so privately. Unlike some licenses, this one <ins>allows me trademark rights.</ins>
+* 📝I have learned more about *repositories* as well as the convenience of forks and modifying your code. I learned how to **edit my profile** more and show people a file that tells about me.
+* ❔~~I think that~~ Some things I still have questions about are things like how accessible my files can be for others, in the sense that they can read them **without me having to** forward them. Along with that, I'm not sure if my _underlining_ or _cross out_ styles work even with the right syntax.
